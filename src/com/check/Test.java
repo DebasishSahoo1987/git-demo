@@ -10,7 +10,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		String hungry="yes";
 		if(hungry=="yes" || hungry=="Y" || hungry == "y"){
-			System.out.println("Eat Something needed");		
+			System.out.println("Eat Something");		
 		}
 		else
 			System.out.println("plz do some work");	
