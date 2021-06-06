@@ -9,8 +9,8 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String hungry="yes";
-		if(hungry=="yes" || hungry=="Y"){
-			System.out.println("Eat Something");		
+		if(hungry=="yes" || hungry=="Y" || hungry == "y"){
+			System.out.println("Eat Something needed");		
 		}
 		else
 			System.out.println("plz do some work");	
